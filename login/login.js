@@ -1,5 +1,3 @@
-import '../style.css';
-
 const loginForm = document.querySelector('#loginForm');
 
 loginForm.addEventListener('submit', formSubmitted);
